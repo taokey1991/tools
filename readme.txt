@@ -14,4 +14,4 @@ diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式，可以从上面的命
 
 如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
 11111111111111111111111111111111111111111111
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
